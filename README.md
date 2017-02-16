@@ -1,3 +1,3 @@
 # stratinum
 user registration, login
-user password rest through Email
+user password reset through Email
